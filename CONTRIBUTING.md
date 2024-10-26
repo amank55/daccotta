@@ -1,6 +1,6 @@
 # Contributing to daccotta 🎬
 
-Welcome! We're excited that you're interested in contributing to **Daccotta**, a social network for movie lovers. Whether you're here to improve the frontend or work on the entire project, your contributions are invaluable to us. Please read through this guide before making any contributions to ensure a smooth and efficient workflow.
+Welcome! We're excited that you're interested in contributing to **Daccotta**, a social network for movie lovers. Whether you're here to improve the frontend or work on the entire project, your contributions are invaluable to us. Please read through this guide before making any contributions to ensure a smooth and efficient work flow.
 
 ## Table of Contents
 
